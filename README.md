@@ -19,7 +19,7 @@ A repository with the indexes in iPST is available in the iPST Github [link](htt
 
 The model is not identical to the one defined within iPST/Eurostag and differences exist for dynamic simulations, but they are irrelevant if the user is not interested in Eurostag matching but in PSS/E matching (see simulation results [here](https://github.com/SmarTS-Lab/iTesla7BusModel_PSSE2Modelica/tree/master/PSSE/Dynamics/Measurements).
 
-[[https://github.com/SmarTS-Lab/iTesla7BusModel_PSSE2Modelica/blob/master/PSSE/Dynamics/Measurements/gen/V_FSSV_Eurostag_Modelica_PSSE.png]]
+[[https://github.com/SmarTS-Lab/iTesla7BusModel_PSSE2Modelica/blob/master/PSSE/Dynamics/Measurements/gen/V_FSSV_Eurostag_Modelica_PSSE.png alt=compare]]
 
 # Developers
 Venkata Satya Narasimham Arava ([Narasimhamarava](https://github.com/Narasimhamarava)), Tin Rabuzin ([tinrabuzin](https://github.com/tinrabuzin)), Luigi Vanfretti ([lvanfretti](https://github.com/lvanfretti))
