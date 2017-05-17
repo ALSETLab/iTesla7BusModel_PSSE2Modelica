@@ -19,6 +19,7 @@ This can allow to test the afromentioned [indexes](https://github.com/itesla/ips
 ![alt text](https://github.com/SmarTS-Lab/iTesla7BusModel_PSSE2Modelica/blob/master/OMScreenshots/00_OM_sim_speed.tiff)
 ![alt text](https://github.com/SmarTS-Lab/iTesla7BusModel_PSSE2Modelica/blob/master/OMScreenshots/00_OM_sim_v.tiff)
 
+# Note: PSS/E vs Eurostag results
 The model is not identical to the one defined within iPST/Eurostag and differences exist for dynamic simulations, but they are irrelevant if the user is not interested in Eurostag matching but in PSS/E matching (see simulation results [here](https://github.com/SmarTS-Lab/iTesla7BusModel_PSSE2Modelica/tree/master/PSSE/Dynamics/Measurements).
 
 ![alt text](https://github.com/SmarTS-Lab/iTesla7BusModel_PSSE2Modelica/blob/master/PSSE/Dynamics/Measurements/gen/V_FSSV_Eurostag_Modelica_PSSE.png)
