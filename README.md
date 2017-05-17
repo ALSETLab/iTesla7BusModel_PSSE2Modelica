@@ -1,5 +1,5 @@
 # iTesla 7-Bus PSS/E Models
-## Power flow and dynamic models of the iTesla 7-Bus for the initialization of the OpenIPSL Modelica Dyanmic Model
+## Power flow and dynamic models of the iTesla 7-Bus for the initialization of the OpenIPSL Modelica Dynamic Model
 
 ## What's in here?
 This repository provides:
