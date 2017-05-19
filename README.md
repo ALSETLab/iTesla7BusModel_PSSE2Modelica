@@ -1,6 +1,7 @@
 # iTesla 7-Bus PSS/E Models
 ## Power flow and dynamic models of the iTesla 7-Bus for the initialization of the OpenIPSL Modelica Dynamic Model
-![alt text](https://github.com/SmarTS-Lab/iTesla7BusModel_PSSE2Modelica/blob/master/OMScreenshots/00_OM_screen.tiff)
+
+![alt text](https://github.com/SmarTS-Lab/iTesla7BusModel_PSSE2Modelica/blob/master/OMScreenshots/00_OM_screen.png)
 
 ## What's in here?
 This repository provides:
@@ -16,8 +17,8 @@ The iTesla 7-Bus model is a synthetic network used for testing the [iTesla Power
 In order to test some of the workflows within the iPST, specially those related to static and dynamic stability classification indexes from time-domain simulations (see [here](https://github.com/itesla/ipst/tree/e46b47547098915367f4fcfe96301d068b45b2ab/dynamic-indexes)); we developed both a PSS/E implementation (available in this repository), which can be used to obtain different power flow solutions to our OpenIPSL Modelica model implementation (see [here](https://github.com/SmarTS-Lab/OpenIPSL/tree/master/ApplicationExamples/SevenBus)).
 
 This can allow to test the afromentioned [indexes](https://github.com/itesla/ipst/tree/e46b47547098915367f4fcfe96301d068b45b2ab/dynamic-indexes) using different simulation engines that comply with the Modelica language. Here are some simulation screenshots using OpenModelica:
-![alt text](https://github.com/SmarTS-Lab/iTesla7BusModel_PSSE2Modelica/blob/master/OMScreenshots/00_OM_sim_speed.tiff)
-![alt text](https://github.com/SmarTS-Lab/iTesla7BusModel_PSSE2Modelica/blob/master/OMScreenshots/00_OM_sim_v.tiff)
+![alt text](https://github.com/SmarTS-Lab/iTesla7BusModel_PSSE2Modelica/blob/master/OMScreenshots/00_OM_sim_speed.png)
+![alt text](https://github.com/SmarTS-Lab/iTesla7BusModel_PSSE2Modelica/blob/master/OMScreenshots/00_OM_sim_v.png)
 
 # Note: PSS/E vs Eurostag results
 The model is not identical to the one defined within iPST/Eurostag and differences exist for dynamic simulations, but they are irrelevant if the user is not interested in Eurostag matching but in PSS/E matching (see simulation results [here](https://github.com/SmarTS-Lab/iTesla7BusModel_PSSE2Modelica/tree/master/PSSE/Dynamics/Measurements).
