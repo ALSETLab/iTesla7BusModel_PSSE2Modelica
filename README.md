@@ -27,7 +27,7 @@ The model is not identical to the one defined within iPST/Eurostag and differenc
 
 # Related work
 The long term goal is to study how either simulation excecution should be defined or how indexes have to be adapted in order to use outputs from any simulation tool. 
-A repository with the indexes in iPST is available in the iPST Github [link](https://github.com/itesla/ipst/tree/e46b47547098915367f4fcfe96301d068b45b2ab/dynamic-indexes), while a new version will be uploaded soon (link when new repo is available).
+A repository with the indexes in iPST is available in the iPST Github [link](https://github.com/itesla/ipst/tree/e46b47547098915367f4fcfe96301d068b45b2ab/dynamic-indexes), while a new version with all the  necessary files to test and integrate these indexes into other platforms is available in this repository: [Methods to assess power system (static and dynamic) stability margins from time-series data](https://github.com/ALSETLab/PS_Time_Series_Stability_Indexes).
 
 # Developers
 Venkata Satya Narasimham Arava ([Narasimhamarava](https://github.com/Narasimhamarava)), Tin Rabuzin ([tinrabuzin](https://github.com/tinrabuzin)), Luigi Vanfretti ([lvanfretti](https://github.com/lvanfretti))
